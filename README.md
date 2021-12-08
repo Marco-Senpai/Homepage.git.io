@@ -3,10 +3,10 @@
 
 
 ## *Table of Contents* ##
-1. ### _[Putting The G in Growth Mindset](https://marco-senpai.github.io/)_ ###
+### _[I. Putting The G in Growth Mindset](https://marco-senpai.github.io/)_ ###
 
-2. ### _[Behold the Almighty GitHub](https://marco-senpai.github.io/topics-learned.github.io/)_ ###
+### _[II. Behold the Almighty GitHub](https://marco-senpai.github.io/topics-learned.github.io/)_ ###
 
-3. ### _[Coder's Computer](https://marco-senpai.github.io/coders-computer.github.io/)_ ###
+### _[III. Coder's Computer](https://marco-senpai.github.io/coders-computer.github.io/)_ ###
 
-4. ### _[Git Intro](https://marco-senpai.github.io/git-intro.github.io/)_ ###
+### _[IV. Git Intro](https://marco-senpai.github.io/git-intro.github.io/)_ ###
